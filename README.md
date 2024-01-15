@@ -11,7 +11,7 @@ node app.js
 ```console
 mocha chai-http-test.js
 ```
-**3.** Import https://github.com/EmreDenizz/NodeJS-Healthcare-API-Server/blob/main/postman_collection.json to your Postman
+**3.** Import [https://github.com/EmreDenizz/NodeJS-Healthcare-API-Server/blob/main/postman_collection.json](https://github.com/EmreDenizz/Restify-Healthcare-API-Server/blob/main/postman_collection.json) to your Postman
    
 **4.** Available methods:
 - **getPatients**
